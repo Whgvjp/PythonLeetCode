@@ -31,4 +31,3 @@ if __name__ == '__main__':
     s = Solution()
     res = Solution.reverse(s,-123)
     print(res)
-
