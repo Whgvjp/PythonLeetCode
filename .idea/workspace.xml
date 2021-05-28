@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="a9e912c7-80f3-4058-8f0b-dc5b88fc471e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/MayStart/RomanToInt.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MayStart/LongestCommonPrefix.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -23,19 +23,37 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/MayStart/RomanToInt.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="384">
+              <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/MayStart/IsPalindrome.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="324">
-              <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+            <state relative-caret-position="340">
+              <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
             </state>
           </provider>
         </entry>
       </file>
       <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/MayStart/RomanToInt.py">
+        <entry file="file://$PROJECT_DIR$/MayStart/LongestCommonPrefix.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="286">
-              <caret line="18" selection-start-line="18" selection-end-line="27" selection-end-column="15" />
+            <state relative-caret-position="25">
+              <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://D:/Anaconda/Lib/typing.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="140">
+              <caret line="1232" selection-start-line="1232" selection-end-line="1232" />
             </state>
           </provider>
         </entry>
@@ -60,13 +78,15 @@
         <option value="$PROJECT_DIR$/MayStart/IntReverse.py" />
         <option value="$PROJECT_DIR$/MayStart/IsPalindrome.py" />
         <option value="$PROJECT_DIR$/MayStart/RomanToInt.py" />
+        <option value="$PROJECT_DIR$/MayStart/longestCommonPrefix.py" />
+        <option value="$PROJECT_DIR$/MayStart/LongestCommonPrefix.py" />
       </list>
     </option>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="400" />
-    <option name="y" value="49" />
-    <option name="width" value="1400" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="79" />
+    <option name="y" value="69" />
+    <option name="width" value="1654" />
     <option name="height" value="949" />
   </component>
   <component name="ProjectLevelVcsManager">
@@ -117,7 +137,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Python.RomanToInt">
+  <component name="RunManager" selected="Python.LongestCommonPrefix">
     <configuration name="IntReverse" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -160,6 +180,27 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
+    <configuration name="LongestCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="PythonLeetCode" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/MayStart" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MayStart/LongestCommonPrefix.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
     <configuration name="RomanToInt" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
@@ -181,28 +222,7 @@
       <option name="INPUT_FILE" value="" />
       <method v="2" />
     </configuration>
-    <configuration name="Testmain" type="PythonConfigurationType" factoryName="Python" temporary="true">
-      <module name="PythonLeetCode" />
-      <option name="INTERPRETER_OPTIONS" value="" />
-      <option name="PARENT_ENVS" value="true" />
-      <envs>
-        <env name="PYTHONUNBUFFERED" value="1" />
-      </envs>
-      <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Test" />
-      <option name="IS_MODULE_SDK" value="true" />
-      <option name="ADD_CONTENT_ROOTS" value="true" />
-      <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Test/Testmain.py" />
-      <option name="PARAMETERS" value="" />
-      <option name="SHOW_COMMAND_LINE" value="false" />
-      <option name="EMULATE_TERMINAL" value="false" />
-      <option name="MODULE_MODE" value="false" />
-      <option name="REDIRECT_INPUT" value="false" />
-      <option name="INPUT_FILE" value="" />
-      <method v="2" />
-    </configuration>
-    <configuration name="TwoSum" type="PythonConfigurationType" factoryName="Python" temporary="true">
+    <configuration name="longestCommonPrefix" type="PythonConfigurationType" factoryName="Python" temporary="true">
       <module name="PythonLeetCode" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -214,7 +234,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MayStart/TwoSum.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/MayStart/longestCommonPrefix.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -225,11 +245,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Python.RomanToInt" />
+        <item itemvalue="Python.LongestCommonPrefix" />
+        <item itemvalue="Python.longestCommonPrefix" />
         <item itemvalue="Python.IsPalindrome" />
+        <item itemvalue="Python.RomanToInt" />
         <item itemvalue="Python.IntReverse" />
-        <item itemvalue="Python.Testmain" />
-        <item itemvalue="Python.TwoSum" />
       </list>
     </recent_temporary>
   </component>
@@ -247,7 +267,7 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1056" extended-state="7" />
     <editor active="true" />
     <layout>
       <window_info content_ui="combo" id="Project" order="0" visible="true" weight="0.16754478" />
@@ -255,8 +275,8 @@
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info id="DB Browser" order="3" />
       <window_info anchor="bottom" id="Message" order="0" />
-      <window_info anchor="bottom" id="Find" order="1" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" visible="true" weight="0.22017354" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.329718" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.29175705" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.3991323" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
@@ -293,17 +313,38 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/MayStart/IsPalindrome.py">
+    <entry file="file://D:/Anaconda/Lib/typing.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="34" selection-start-line="18" selection-start-column="34" selection-end-line="18" selection-end-column="34" />
+        <state relative-caret-position="140">
+          <caret line="1232" selection-start-line="1232" selection-end-line="1232" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/MayStart/RomanToInt.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="286">
-          <caret line="18" selection-start-line="18" selection-end-line="27" selection-end-column="15" />
+        <state relative-caret-position="384">
+          <caret line="25" column="35" selection-start-line="25" selection-start-column="35" selection-end-line="25" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://D:/Anaconda/Lib/codecs.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="175">
+          <caret line="309" selection-start-line="309" selection-end-line="309" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MayStart/IsPalindrome.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="340">
+          <caret line="17" column="17" lean-forward="true" selection-start-line="17" selection-start-column="17" selection-end-line="17" selection-end-column="17" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/MayStart/LongestCommonPrefix.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="25">
+          <caret line="1" column="24" lean-forward="true" selection-start-line="1" selection-start-column="24" selection-end-line="1" selection-end-column="24" />
         </state>
       </provider>
     </entry>
